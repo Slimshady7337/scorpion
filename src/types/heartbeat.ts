@@ -1,0 +1,1 @@
+No Content: https://presale.scorpion.casino/src/types/heartbeat.ts
